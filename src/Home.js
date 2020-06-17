@@ -6,8 +6,8 @@ class Home extends Component {
     return (
       <div className="panel-group">
         <div className="panel panel-primary">
-          <div className="panel-heading"></div>
-          <div className="panel-body"></div>
+          <div className="panel-heading">Home Heading</div>
+          <div className="panel-body">Home Content</div>
         </div>
       </div>
     )
